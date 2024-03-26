@@ -1,0 +1,2 @@
+User Settings
+ADD_TO_CLIPBOARD_AFTER_POSTING=True
